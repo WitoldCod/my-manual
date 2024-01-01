@@ -7,7 +7,7 @@
 2. instalacja starszej wersji pythona
 <br>(działa w ubuntu 20.0 w 18.04 nie działa)
 - Dodaj repozytorium deadsnakes PPA:
-- ```
+```
 sudo add-apt-repository ppa:deadsnakes/ppa
 ```
 - Zaktualizuj listę pakietów:
