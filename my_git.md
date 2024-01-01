@@ -35,7 +35,7 @@ virtualenv -p /usr/bin/python3.5 venv35
 source venv35/bin/activate
 ```
 
-6.Deaktywacja środowiska wirtualnego:
+6. Deaktywacja środowiska wirtualnego:
 ```
 deactivate
 ```
