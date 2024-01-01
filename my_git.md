@@ -4,8 +4,8 @@
 - git add -A
 - git commit -m "komentarz do rewizji"
 
-2. instalacja starszej wersji pythona
-<br>(działa w ubuntu 20.0 w 18.04 nie działa)
+2. instalacja starszej wersji pythona w ubuntu
+<br>(działa w ubuntu 20.04 w 18.04 nie działa)
 - Dodaj repozytorium deadsnakes PPA:
 ```
 sudo add-apt-repository ppa:deadsnakes/ppa
