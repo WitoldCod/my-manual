@@ -26,7 +26,9 @@ sudo apt-get install virtualenv
 ```
 
 4. Utworzenie środowiska wirtualnego:
-```virtualenv -p /usr/bin/python3.5 venv35```
+```
+virtualenv -p /usr/bin/python3.5 venv35
+```
 
 5. Uruchomienie środowiska wirtualnego:
 ```
