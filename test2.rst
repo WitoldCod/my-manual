@@ -131,6 +131,8 @@ Strikethrough
 
 [STRIKEOUT:The world is flat.]
 
+~~STRIKEOUT The world is flat.~~
+
 Task List
 ~~~~~~~~~
 
